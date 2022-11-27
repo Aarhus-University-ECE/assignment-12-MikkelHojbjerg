@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/duration.hpp
+
+/home/hojbjerg/computerTeknologi/1semester/week12/assignment-12-MikkelHojbjerg/src/main.cpp
+duration.hpp
+/home/hojbjerg/computerTeknologi/1semester/week12/assignment-12-MikkelHojbjerg/src/duration.hpp
+
