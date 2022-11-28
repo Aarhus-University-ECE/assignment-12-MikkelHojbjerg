@@ -2,7 +2,7 @@
 #include <assert.h>
 #include <iostream>
 
-//HEnter værdien af time
+//Henter værdien af time
 int Duration::getDuration(){
 	return time;
 }
